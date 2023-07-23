@@ -1,4 +1,4 @@
-# ERC20 Goerli to Mumbau Bridge Using fxPortal
+# ERC20 Goerli to Mumbai Bridge Using fxPortal
 This project demonstrateshow to use the fxPortal contracts to transfer ERC20 tokens from Goerli to Mumbai.
 
 ### Steps for Bridging
